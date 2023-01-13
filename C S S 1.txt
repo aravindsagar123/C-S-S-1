@@ -1,0 +1,51 @@
+!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            h1{
+                color:red;
+                
+                padding: 5px;
+            }
+            p{
+                color:antiquewhite;
+                
+
+            }
+            body{
+                background-image: url("pexels-chait-goli-2666598.jpg");
+                margin-left:100px;
+                background-size:1800px 800px;
+                background-repeat: no-repeat;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>
+           <marquee width="100%" direction="right" height="100px" scrolldelay="2"> <b><i><center>SPACE EXPLORATION CLASS</center></i> </b></marquee>
+        </h1>
+        <p>
+            <i> <center>
+                this space exploration is being conducted by <MARK>S STUDIO </MARK> from india located in kerala .so  do try and enjoy the trip</center>
+            </i> 
+        </p>
+            <p>
+               <marquee width="100%" direction="down" height ="100px"> <i>
+                     * covering subjects based on astro physics 
+                </i></marquee>
+                <p>
+                    <i><marquee width ="100%" direction ="down" height ="100px">
+                       *  orbituary rotation of planets
+                    </i></marquee>
+
+                
+                </p>
+                <p>
+                    <i><marquee width ="100%" direction ="down" height ="100px">
+                        * distance between black holes and our galaxy 
+                    </i><marquee>
+                </p>
+            </p>
+       
+    </body>
+</html>
